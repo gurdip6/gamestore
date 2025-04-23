@@ -51,7 +51,7 @@ Steg 7: Aktivera Application Insights
 2. Jag klickade Enable och kopplade gamestore.
 3. Nu kan jag övervaka applikationens prestanda, få loggar, live metrics, fel och m.m
 
-Steg 8: Aktivera HTTPS och grundläggande säkerhet
+Steg 8: Aktivera HTTPS och grundläggande säkerhet i configuration
 1. Aktiverade HTTPS Only.
 2. Applikationen använder nu HTTPS som standard.
 
