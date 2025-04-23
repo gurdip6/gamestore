@@ -56,7 +56,7 @@ Steg 8: Aktivera HTTPS och grundläggande säkerhet i configuration
 2. Applikationen använder nu HTTPS som standard.
 
 Steg 9: Verifiera deployment
-1. Öppnade URL:  gamestore-dzedgdcph7h6chfe.northeurope-01.azurewebsites.net
+1. Öppnade URL:  <a href="https://gamestore-dzedgdcph7h6chfe.northeurope-01.azurewebsites.net">gamestore-dzedgdcph7h6chfe.northeurope-01.azurewebsites.net</a>
 2. Applikationen fungerade korrekt och kunde visa startsidan och andra vyer.
 
 steg 10: Sammanfattning
